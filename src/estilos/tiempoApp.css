@@ -58,6 +58,10 @@ body {
     height: 100px;
     margin-top: 10px;
   }
+
+  .capitaliza{
+    text-transform: capitalize;
+  }
   
   /* Estilos para móviles */
   @media (max-width: 600px) {
